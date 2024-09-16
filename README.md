@@ -11,7 +11,8 @@ Projede 3 ana ekran bulunmaktadır:
 3. **Proje Detayları Sayfası** - Fon toplama amacıyla arz olan projenin detaylarını gösteren ekran.
 
 <img src="https://github.com/user-attachments/assets/5685993e-29a9-4c9f-aa59-acf4fdcb292c" alt="Anasayfa" width="300"/>
-
+<img src="https://github.com/user-attachments/assets/f2582c2b-8f66-43d2-8dc4-64bb53770e5d" alt="Proje Başvuru" width="300"/>
+<img src="https://github.com/user-attachments/assets/fff6136d-4949-4f11-ad9b-2dab38fde56d" alt="Proje Detay" width="300"/>
 
 ## Kullanılan Araçlar
 
